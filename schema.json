@@ -1,0 +1,10 @@
+{
+	"continue": {
+		"text": "Do you want to continue?",
+		"default": "N"
+	},
+	"index": {
+		"text": "Index file path?",
+		"default": "index.js"
+	}
+}
