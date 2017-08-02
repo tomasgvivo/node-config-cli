@@ -1,6 +1,6 @@
 {
 	"continue": {
-		"text": "Do you want to continue?",
+		"type": "boolean",
 		"default": "N"
 	},
 	"index": {
